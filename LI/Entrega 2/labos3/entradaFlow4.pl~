@@ -1,0 +1,9 @@
+% esta entrada corresponde al primer ejemplo en el enunciado
+size(4).
+%  color   init  fin
+c(blue,    1,1,  4,2).
+c(yellow,  4,3,  4,4).
+c(green,   3,3,  3,4).
+c(red,     1,2,  1,4).
+
+

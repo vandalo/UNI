@@ -1,0 +1,46 @@
+0==================0
+
+
+PRUEBAS
+
+
+0==================0
+
+
+Compiling..
+Compile OK
+
+
+0==================0
+ver1
+0==================0
+Test250-10
+SATISFIABLE
+Time is: 0.120695
+Test250-1
+UNSATISFIABLE
+Time is: 10.7073
+Test250-2
+UNSATISFIABLE
+Time is: 18.4008
+Test250-3
+SATISFIABLE
+Time is: 2.87734
+Test250-4
+SATISFIABLE
+Time is: 1.41017
+Test250-5
+UNSATISFIABLE
+Time is: 18.4278
+Test250-6
+UNSATISFIABLE
+Time is: 29.3562
+Test250-7
+SATISFIABLE
+Time is: 6.60937
+Test250-8
+UNSATISFIABLE
+Time is: 25.4072
+Test250-9
+SATISFIABLE
+Time is: 12.3749

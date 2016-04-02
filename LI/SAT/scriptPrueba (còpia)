@@ -1,0 +1,39 @@
+
+echo 0==================0 >> out.txt
+echo  >> out.txt
+echo  >> out.txt
+echo       PRUEBAS        >> out.txt
+echo  >> out.txt
+echo  >> out.txt
+echo 0==================0 >> out.txt
+echo  >> out.txt
+echo  >> out.txt
+echo Compiling.. >> out.txt
+g++ -O3 SAT-versio1.cpp -o ver1
+echo Compile OK >> out.txt
+echo  >> out.txt
+echo  >> out.txt
+echo 0==================0 >> out.txt
+echo        ver1 >>out.txt
+echo 0==================0 >> out.txt
+
+echo Test250-10 >> out.txt
+./ver1 <random3SAT/vars-250-10.cnf >> out.txt
+echo Test250-1 >> out.txt
+./ver1 <random3SAT/vars-250-1.cnf >> out.txt
+echo Test250-2 >> out.txt
+./ver1 <random3SAT/vars-250-2.cnf >> out.txt
+echo Test250-3 >> out.txt
+./ver1 <random3SAT/vars-250-3.cnf >> out.txt
+echo Test250-4 >> out.txt
+./ver1 <random3SAT/vars-250-4.cnf >> out.txt
+echo Test250-5 >> out.txt
+./ver1 <random3SAT/vars-250-5.cnf >> out.txt
+echo Test250-6 >> out.txt
+./ver1 <random3SAT/vars-250-6.cnf >> out.txt
+echo Test250-7 >> out.txt
+./ver1 <random3SAT/vars-250-7.cnf >> out.txt
+echo Test250-8 >> out.txt
+./ver1 <random3SAT/vars-250-8.cnf >> out.txt
+echo Test250-9 >> out.txt
+./ver1 <random3SAT/vars-250-9.cnf >> out.txt

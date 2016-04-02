@@ -1,0 +1,303 @@
+vars-100-10.cnf
+========================
+UNSATISFIABLE
+Time is: 0.012593
+Decisiones: 954
+Propagaciones: 23752
+
+vars-100-1.cnf
+========================
+SATISFIABLE
+Time is: 0.001368
+Decisiones: 43
+Propagaciones: 749
+
+vars-100-2.cnf
+========================
+SATISFIABLE
+Time is: 0.001287
+Decisiones: 41
+Propagaciones: 576
+
+vars-100-3.cnf
+========================
+UNSATISFIABLE
+Time is: 0.011802
+Decisiones: 822
+Propagaciones: 21692
+
+vars-100-4.cnf
+========================
+UNSATISFIABLE
+Time is: 0.017111
+Decisiones: 1235
+Propagaciones: 32788
+
+vars-100-5.cnf
+========================
+SATISFIABLE
+Time is: 0.003227
+Decisiones: 165
+Propagaciones: 4435
+
+vars-100-6.cnf
+========================
+SATISFIABLE
+Time is: 0.013902
+Decisiones: 1023
+Propagaciones: 26598
+
+vars-100-7.cnf
+========================
+SATISFIABLE
+Time is: 0.001332
+Decisiones: 32
+Propagaciones: 657
+
+vars-100-8.cnf
+========================
+SATISFIABLE
+Time is: 0.001623
+Decisiones: 53
+Propagaciones: 1193
+
+vars-100-9.cnf
+========================
+UNSATISFIABLE
+Time is: 0.008656
+Decisiones: 557
+Propagaciones: 15425
+
+vars-150-10.cnf
+========================
+UNSATISFIABLE
+Time is: 0.156404
+Decisiones: 8379
+Propagaciones: 295077
+
+vars-150-1.cnf
+========================
+SATISFIABLE
+Time is: 0.003148
+Decisiones: 139
+Propagaciones: 3300
+
+vars-150-2.cnf
+========================
+SATISFIABLE
+Time is: 0.044163
+Decisiones: 2479
+Propagaciones: 81538
+
+vars-150-3.cnf
+========================
+SATISFIABLE
+Time is: 0.071342
+Decisiones: 3766
+Propagaciones: 132702
+
+vars-150-4.cnf
+========================
+SATISFIABLE
+Time is: 0.064974
+Decisiones: 3650
+Propagaciones: 120825
+
+vars-150-5.cnf
+========================
+UNSATISFIABLE
+Time is: 0.171639
+Decisiones: 9547
+Propagaciones: 322262
+
+vars-150-6.cnf
+========================
+SATISFIABLE
+Time is: 0.007944
+Decisiones: 376
+Propagaciones: 12589
+
+vars-150-7.cnf
+========================
+UNSATISFIABLE
+Time is: 0.107021
+Decisiones: 6033
+Propagaciones: 199542
+
+vars-150-8.cnf
+========================
+SATISFIABLE
+Time is: 0.019908
+Decisiones: 985
+Propagaciones: 34595
+
+vars-150-9.cnf
+========================
+SATISFIABLE
+Time is: 0.002148
+Decisiones: 64
+Propagaciones: 1328
+
+vars-200-10.cnf
+========================
+UNSATISFIABLE
+Time is: 2.22278
+Decisiones: 99219
+Propagaciones: 4015419
+
+vars-200-1.cnf
+========================
+UNSATISFIABLE
+Time is: 1.48937
+Decisiones: 64187
+Propagaciones: 2690160
+
+vars-200-2.cnf
+========================
+SATISFIABLE
+Time is: 0.184253
+Decisiones: 7959
+Propagaciones: 331704
+
+vars-200-3.cnf
+========================
+UNSATISFIABLE
+Time is: 1.81892
+Decisiones: 80510
+Propagaciones: 3287773
+
+vars-200-4.cnf
+========================
+UNSATISFIABLE
+Time is: 0.774436
+Decisiones: 34397
+Propagaciones: 1385777
+
+vars-200-5.cnf
+========================
+UNSATISFIABLE
+Time is: 0.80906
+Decisiones: 35453
+Propagaciones: 1453177
+
+vars-200-6.cnf
+========================
+SATISFIABLE
+Time is: 0.515772
+Decisiones: 22506
+Propagaciones: 935786
+
+vars-200-7.cnf
+========================
+UNSATISFIABLE
+Time is: 2.96873
+Decisiones: 129612
+Propagaciones: 5393089
+
+vars-200-8.cnf
+========================
+SATISFIABLE
+Time is: 0.570769
+Decisiones: 24945
+Propagaciones: 1021239
+
+vars-200-9.cnf
+========================
+SATISFIABLE
+Time is: 0.020085
+Decisiones: 815
+Propagaciones: 33190
+
+vars-250-10.cnf
+========================
+SATISFIABLE
+Time is: 0.104098
+Decisiones: 3767
+Propagaciones: 182926
+
+vars-250-1.cnf
+========================
+UNSATISFIABLE
+Time is: 13.4725
+Decisiones: 505910
+Propagaciones: 23609923
+
+vars-250-2.cnf
+========================
+UNSATISFIABLE
+Time is: 17.7019
+Decisiones: 662578
+Propagaciones: 31220010
+
+vars-250-3.cnf
+========================
+SATISFIABLE
+Time is: 3.65109
+Decisiones: 139290
+Propagaciones: 6392414
+
+vars-250-4.cnf
+========================
+SATISFIABLE
+Time is: 1.49867
+Decisiones: 55254
+Propagaciones: 2620741
+
+vars-250-5.cnf
+========================
+UNSATISFIABLE
+Time is: 15.0699
+Decisiones: 558925
+Propagaciones: 26554001
+
+vars-250-6.cnf
+========================
+UNSATISFIABLE
+Time is: 21.6059
+Decisiones: 807645
+Propagaciones: 38058494
+
+vars-250-7.cnf
+========================
+SATISFIABLE
+Time is: 3.43305
+Decisiones: 126689
+Propagaciones: 6105724
+
+vars-250-8.cnf
+========================
+UNSATISFIABLE
+Time is: 18.8286
+Decisiones: 710813
+Propagaciones: 33230074
+
+vars-250-9.cnf
+========================
+SATISFIABLE
+Time is: 13.8259
+Decisiones: 517365
+Propagaciones: 24206632
+
+vars-300-10.cnf
+========================
+SATISFIABLE
+Time is: 6.42653
+Decisiones: 206483
+Propagaciones: 11130700
+
+vars-300-1.cnf
+========================
+SATISFIABLE
+Time is: 175.716
+Decisiones: 5840403
+Propagaciones: 302011153
+
+vars-300-2.cnf
+========================
+UNSATISFIABLE
+Time is: 171.256
+Decisiones: 5606258
+Propagaciones: 293604826
+
+vars-300-3.cnf
+========================

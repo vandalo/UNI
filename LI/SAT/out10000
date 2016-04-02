@@ -1,0 +1,250 @@
+vars-100-10.cnf
+========================
+UNSATISFIABLE
+Time is: 0.012785
+
+vars-100-1.cnf
+========================
+SATISFIABLE
+Time is: 0.001484
+
+vars-100-2.cnf
+========================
+SATISFIABLE
+Time is: 0.001285
+
+vars-100-3.cnf
+========================
+UNSATISFIABLE
+Time is: 0.013329
+
+vars-100-4.cnf
+========================
+UNSATISFIABLE
+Time is: 0.014879
+
+vars-100-5.cnf
+========================
+SATISFIABLE
+Time is: 0.003606
+
+vars-100-6.cnf
+========================
+SATISFIABLE
+Time is: 0.015992
+
+vars-100-7.cnf
+========================
+SATISFIABLE
+Time is: 0.001361
+
+vars-100-8.cnf
+========================
+SATISFIABLE
+Time is: 0.001937
+
+vars-100-9.cnf
+========================
+UNSATISFIABLE
+Time is: 0.009024
+
+vars-150-10.cnf
+========================
+UNSATISFIABLE
+Time is: 0.173393
+
+vars-150-1.cnf
+========================
+SATISFIABLE
+Time is: 0.003697
+
+vars-150-2.cnf
+========================
+SATISFIABLE
+Time is: 0.096666
+
+vars-150-3.cnf
+========================
+SATISFIABLE
+Time is: 0.060502
+
+vars-150-4.cnf
+========================
+SATISFIABLE
+Time is: 0.064443
+
+vars-150-5.cnf
+========================
+UNSATISFIABLE
+Time is: 0.182956
+
+vars-150-6.cnf
+========================
+SATISFIABLE
+Time is: 0.007329
+
+vars-150-7.cnf
+========================
+UNSATISFIABLE
+Time is: 0.136683
+
+vars-150-8.cnf
+========================
+SATISFIABLE
+Time is: 0.019019
+
+vars-150-9.cnf
+========================
+SATISFIABLE
+Time is: 0.002268
+
+vars-200-10.cnf
+========================
+UNSATISFIABLE
+Time is: 2.02852
+
+vars-200-1.cnf
+========================
+UNSATISFIABLE
+Time is: 1.46182
+
+vars-200-2.cnf
+========================
+SATISFIABLE
+Time is: 0.172316
+
+vars-200-3.cnf
+========================
+UNSATISFIABLE
+Time is: 1.9101
+
+vars-200-4.cnf
+========================
+UNSATISFIABLE
+Time is: 0.622504
+
+vars-200-5.cnf
+========================
+UNSATISFIABLE
+Time is: 0.852468
+
+vars-200-6.cnf
+========================
+SATISFIABLE
+Time is: 0.435976
+
+vars-200-7.cnf
+========================
+UNSATISFIABLE
+Time is: 3.57303
+
+vars-200-8.cnf
+========================
+SATISFIABLE
+Time is: 0.280003
+
+vars-200-9.cnf
+========================
+SATISFIABLE
+Time is: 0.015052
+
+vars-250-10.cnf
+========================
+SATISFIABLE
+Time is: 0.09825
+
+vars-250-1.cnf
+========================
+UNSATISFIABLE
+Time is: 12.778
+
+vars-250-2.cnf
+========================
+UNSATISFIABLE
+Time is: 22.9335
+
+vars-250-3.cnf
+========================
+SATISFIABLE
+Time is: 3.86277
+
+vars-250-4.cnf
+========================
+SATISFIABLE
+Time is: 2.50337
+
+vars-250-5.cnf
+========================
+UNSATISFIABLE
+Time is: 14.659
+
+vars-250-6.cnf
+========================
+UNSATISFIABLE
+Time is: 26.2076
+
+vars-250-7.cnf
+========================
+SATISFIABLE
+Time is: 3.86514
+
+vars-250-8.cnf
+========================
+UNSATISFIABLE
+Time is: 18.8945
+
+vars-250-9.cnf
+========================
+SATISFIABLE
+Time is: 11.4368
+
+vars-300-10.cnf
+========================
+SATISFIABLE
+Time is: 7.05858
+
+vars-300-1.cnf
+========================
+SATISFIABLE
+Time is: 135.832
+
+vars-300-2.cnf
+========================
+UNSATISFIABLE
+Time is: 171.656
+
+vars-300-3.cnf
+========================
+UNSATISFIABLE
+Time is: 81.9035
+
+vars-300-4.cnf
+========================
+UNSATISFIABLE
+Time is: 216.416
+
+vars-300-5.cnf
+========================
+SATISFIABLE
+Time is: 48.5528
+
+vars-300-6.cnf
+========================
+UNSATISFIABLE
+Time is: 85.8703
+
+vars-300-7.cnf
+========================
+SATISFIABLE
+Time is: 2.4753
+
+vars-300-8.cnf
+========================
+UNSATISFIABLE
+Time is: 194.546
+
+vars-300-9.cnf
+========================
+SATISFIABLE
+Time is: 25.6082
+
