@@ -1,0 +1,115 @@
+; Mon Dec 07 17:22:53 CET 2015
+; 
+;+ (version "3.5")
+;+ (build "Build 660")
+
+([CienciaFiccion] of  Genero
+
+	(nombre "Ciencia ficcion"))
+
+([Clasica] of  Narrativa
+
+	(nombre "Clasica"))
+
+([Contemporanea] of  Narrativa
+
+	(nombre "Contemporanea"))
+
+([Fantasia] of  Genero
+
+	(nombre "Fantasia"))
+
+([Novela] of  %3ASTANDARD-CLASS
+
+	(%3ASLOT-CONSTRAINTS [Ontologia_Class10002]))
+
+([Ontologia_Class0] of  Novela
+
+	(complejidad facil)
+	(edad juvenil)
+	(genero [Fantasia])
+	(paginas 324)
+	(tipologia_sexual indiferente)
+	(titulo "El Hobbit"))
+
+([Ontologia_Class1] of  Novela
+
+	(complejidad mediana)
+	(edad juvenil)
+	(genero [Fantasia])
+	(paginas 548)
+	(tipologia_sexual indiferente)
+	(titulo "El senor de los anillos. La comunidad del anillo."))
+
+([Ontologia_Class10002] of  %3APAL-CONSTRAINT
+)
+
+([Ontologia_Class12] of  Novela
+
+	(autor "Philip K Dick")
+	(complejidad mediana)
+	(edad adulto)
+	(genero
+		[CienciaFiccion]
+		[Policiaca])
+	(paginas 224)
+	(tipologia_sexual indiferente)
+	(titulo "Ubik"))
+
+([Ontologia_Class13] of  Novela
+
+	(complejidad mediana)
+	(edad adulto)
+	(genero [CienciaFiccion])
+	(paginas 208)
+	(tipologia_sexual indiferente)
+	(titulo "El hombre en el castillo"))
+
+([Ontologia_Class2] of  Novela
+
+	(complejidad mediana)
+	(edad juvenil)
+	(genero [Fantasia])
+	(paginas 462)
+	(tipologia_sexual indiferente)
+	(titulo "El senor de los anillos. Las dos torres."))
+
+([Ontologia_Class3] of  Novela
+
+	(complejidad mediana)
+	(edad juvenil)
+	(genero [Fantasia])
+	(paginas 414)
+	(tipologia_sexual indiferente)
+	(titulo "El senor de los anillos. El retorno del rey."))
+
+([Ontologia_Class5] of  Novela
+
+	(complejidad facil)
+	(edad adulto)
+	(genero [Terror])
+	(paginas 656)
+	(tipologia_sexual indiferente)
+	(titulo "El resplandor"))
+
+([Policiaca] of  Genero
+
+	(nombre "Policiaca"))
+
+([prueba_Class11] of  Novela
+
+	(bestseller TRUE)
+	(complejidad mediana)
+	(edad adulto)
+	(genero [CienciaFiccion])
+	(paginas 272)
+	(tipologia_sexual masculino)
+	(titulo "Blade Runner"))
+
+([Romantica] of  Genero
+
+	(nombre "Romantica"))
+
+([Terror] of  Genero
+
+	(nombre "Terror"))

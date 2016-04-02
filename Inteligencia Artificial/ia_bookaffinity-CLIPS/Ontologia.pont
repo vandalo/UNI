@@ -1,0 +1,101 @@
+; Sun Dec 06 21:23:13 CET 2015
+; 
+;+ (version "3.5")
+;+ (build "Build 660")
+
+
+(defclass %3ACLIPS_TOP_LEVEL_SLOT_CLASS "Fake class to save top-level slot information"
+	(is-a USER)
+	(role abstract)
+	(single-slot autor
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot edad
+		(type SYMBOL)
+		(allowed-values infantil juvenil adulto)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot paginas
+		(type INTEGER)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot titulo
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot bestseller
+		(type SYMBOL)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot tipologia_sexual
+		(type SYMBOL)
+		(allowed-values masculino femenino indiferente)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot nombre
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot genero
+		(type INSTANCE)
+;+		(allowed-classes Genero)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write))
+	(single-slot complejidad
+		(type SYMBOL)
+		(allowed-values facil mediana dificil)
+;+		(cardinality 1 1)
+		(create-accessor read-write)))
+
+(defclass Genero
+	(is-a USER)
+	(role concrete)
+	(single-slot nombre
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write)))
+
+(defclass Narrativa
+	(is-a Genero)
+	(role concrete))
+
+(defclass Novela
+	(is-a USER)
+	(role concrete)
+	(single-slot autor
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot titulo
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot edad
+		(type SYMBOL)
+		(allowed-values infantil juvenil adulto)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot tipologia_sexual
+		(type SYMBOL)
+		(allowed-values masculino femenino indiferente)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot genero
+		(type INSTANCE)
+;+		(allowed-classes Genero)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write))
+	(single-slot paginas
+		(type INTEGER)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot complejidad
+		(type SYMBOL)
+		(allowed-values facil mediana dificil)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot bestseller
+		(type SYMBOL)
+;+		(cardinality 1 1)
+		(create-accessor read-write)))
