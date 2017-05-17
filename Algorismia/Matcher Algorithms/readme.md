@@ -6,4 +6,4 @@ http://www.partow.net/programming/hashfunctions/#AvailableHashFunctions
 
 generar k funciones de hash a partir de 2 funciones de hash
 
-http://www.eecs.harvard.edu/~kirsch/pubs/bbbf/esa06.pdf
+https://www.eecs.harvard.edu/~michaelm/postscripts/tr-02-05.pdf
